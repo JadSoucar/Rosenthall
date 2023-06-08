@@ -17,7 +17,7 @@ from pandarallel import pandarallel
 
 
 global ipv4
-ipv4 = "172.23.224.1"
+ipv4 = "___"
 
 
 def get_recording_info(file):
